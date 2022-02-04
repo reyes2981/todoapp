@@ -3,7 +3,7 @@ package com.demo.demotodo.model;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import javax.persistence.*;
-
+//COMMIT MESSAGE: Step 3B - COMPLETED
 @Entity
 @Table(name = "items")
 public class Item {
