@@ -6,7 +6,7 @@ import org.hibernate.annotations.LazyCollectionOption;
 
 import javax.persistence.*;
 import java.util.List;
-
+//Step 3A - COMPLETED
 @Entity
 @Table(name = "todotable")
 public class Category {
